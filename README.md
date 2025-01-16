@@ -17,7 +17,7 @@ $$
 
 ### Key Concepts
 1. **Historical Volatility:** The optimization leverages historical price data to compute the covariance matrix (\( \Sigma \)) of asset returns, which represents the interdependencies and variances of the assets in the portfolio.
-2. **Portfolio Weights $$\( \mathbf{w}^* \)$$ :** The weights represent the proportion of the total portfolio allocated to each asset.
+2. **Portfolio Weights $$\( \mathbf{w} \)$$ :** The weights represent the proportion of the total portfolio allocated to each asset.
 3. **Risk Minimization:** The objective is to minimize the portfolio's overall risk (variance) while adhering to allocation constraints.
 
 ### Constraints
